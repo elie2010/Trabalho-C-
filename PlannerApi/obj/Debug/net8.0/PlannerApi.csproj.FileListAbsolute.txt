@@ -1,0 +1,6 @@
+c:\Users\elied\OneDrive\Área de Trabalho\Rascunho do trabalho C#\PlannerApi\obj\Debug\net8.0\PlannerApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\elied\OneDrive\Área de Trabalho\Rascunho do trabalho C#\PlannerApi\obj\Debug\net8.0\PlannerApi.AssemblyInfoInputs.cache
+c:\Users\elied\OneDrive\Área de Trabalho\Rascunho do trabalho C#\PlannerApi\obj\Debug\net8.0\PlannerApi.AssemblyInfo.cs
+c:\Users\elied\OneDrive\Área de Trabalho\Rascunho do trabalho C#\PlannerApi\obj\Debug\net8.0\PlannerApi.csproj.CoreCompileInputs.cache
+c:\Users\elied\OneDrive\Área de Trabalho\Rascunho do trabalho C#\PlannerApi\obj\Debug\net8.0\PlannerApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\elied\OneDrive\Área de Trabalho\Rascunho do trabalho C#\PlannerApi\obj\Debug\net8.0\PlannerApi.sourcelink.json
